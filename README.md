@@ -31,3 +31,15 @@ Welcome to the **Problem Solving** repository! This repo contains a wide range o
 - **Bit Manipulation**
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abdo0302/Problem-Solving/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abdo0302/Problem-Solving/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
