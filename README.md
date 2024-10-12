@@ -42,4 +42,8 @@ Welcome to the **Problem Solving** repository! This repo contains a wide range o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdo0302/Problem-Solving/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/abdo0302/Problem-Solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
