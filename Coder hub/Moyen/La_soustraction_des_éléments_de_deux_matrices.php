@@ -11,6 +11,7 @@ function sub_arrays($arr1, $arr2) {
     for ($i=0; $i <count($arr1) ; $i++) { 
         array_push($Soust,$arr1[$i]-$arr2[$i]);
     }
+    
     return $Soust;
 }
 
